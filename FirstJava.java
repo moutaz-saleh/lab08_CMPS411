@@ -4,4 +4,4 @@ import java.lang.*;
   {  System.out.println("This is my first Java program."); 
       StdOut.print("Type the first integer: ");
       System.out.println("Type second integer.");
-   System.out.println("Type 4th integer."); System.out.println("Type 6th integer.");} }
+   System.out.println("Type 4th integer."); System.out.println("Type 6th integer."); System.out.println("Type 7th integer.");} }
